@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "PsmQEy0QsGxr8MGyxo6bXXIED+ge8FqEQF65PLilt75/2QKe+DHcdo+U7uIIxJV/PL1ZvUw219xgyDMd8RCOVg==",
+  "success": true,
+  "projectFilePath": "\\\\Mac\\Home\\Desktop\\КГ для лаб\\kg-lab2\\CubeRubick\\CubeRubick\\CubeRubick.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\akrai\\.nuget\\packages\\glmnet\\0.7.0\\glmnet.0.7.0.nupkg.sha512",
+    "C:\\Users\\akrai\\.nuget\\packages\\opentk\\4.7.2\\opentk.4.7.2.nupkg.sha512",
+    "C:\\Users\\akrai\\.nuget\\packages\\opentk.compute\\4.7.2\\opentk.compute.4.7.2.nupkg.sha512",
+    "C:\\Users\\akrai\\.nuget\\packages\\opentk.core\\4.7.2\\opentk.core.4.7.2.nupkg.sha512",
+    "C:\\Users\\akrai\\.nuget\\packages\\opentk.graphics\\4.7.2\\opentk.graphics.4.7.2.nupkg.sha512",
+    "C:\\Users\\akrai\\.nuget\\packages\\opentk.input\\4.7.2\\opentk.input.4.7.2.nupkg.sha512",
+    "C:\\Users\\akrai\\.nuget\\packages\\opentk.mathematics\\4.7.2\\opentk.mathematics.4.7.2.nupkg.sha512",
+    "C:\\Users\\akrai\\.nuget\\packages\\opentk.openal\\4.7.2\\opentk.openal.4.7.2.nupkg.sha512",
+    "C:\\Users\\akrai\\.nuget\\packages\\opentk.redist.glfw\\3.3.7.25\\opentk.redist.glfw.3.3.7.25.nupkg.sha512",
+    "C:\\Users\\akrai\\.nuget\\packages\\opentk.windowing.common\\4.7.2\\opentk.windowing.common.4.7.2.nupkg.sha512",
+    "C:\\Users\\akrai\\.nuget\\packages\\opentk.windowing.desktop\\4.7.2\\opentk.windowing.desktop.4.7.2.nupkg.sha512",
+    "C:\\Users\\akrai\\.nuget\\packages\\opentk.windowing.graphicslibraryframework\\4.7.2\\opentk.windowing.graphicslibraryframework.4.7.2.nupkg.sha512",
+    "C:\\Users\\akrai\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"GlmNet 0.7.0\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \"net5.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "GlmNet",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
